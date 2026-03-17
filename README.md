@@ -1,5 +1,7 @@
 # dw-exampleapp 📱
 
+![dwscripts-brand](https://assets.dwscripts.dev/horizontal-brand.png)
+
 The official boilerplate and modular external app template for **dw-phone**. 
 
 This repository provides a clean, ready-to-use foundation for developers looking to create custom applications for `dw-phone` without modifying the core phone resources. By using this template, you can build standalone apps that seamlessly integrate with the phone's ecosystem.
