@@ -1,6 +1,6 @@
 # dw-exampleapp 📱
 
-![dwscripts-brand](https://assets.dwscripts.dev/horizontal-brand.png)
+![dwscripts-brand](https://cdn.dwscripts.dev/horizontal-brand.png)
 
 The official boilerplate and modular external app template for **dw-phone**. 
 
